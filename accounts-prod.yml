@@ -1,0 +1,8 @@
+build:
+  version: prod
+
+accounts:
+  message: "this is to check prod configuration"
+  contactDetails:
+    name: John
+    phoneno: "94248484082"

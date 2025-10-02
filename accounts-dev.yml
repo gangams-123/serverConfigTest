@@ -1,0 +1,8 @@
+build:
+  version: devs
+
+accounts:
+  message: "this is to check dev configuration"
+  contactDetails:
+    name: Johnldwkd
+    phoneno: "94248484082kdkxk"
