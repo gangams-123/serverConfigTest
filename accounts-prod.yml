@@ -1,8 +1,8 @@
 build:
-  version: prod
+  version: prodgit
 
 accounts:
-  message: "this is to check prod configuration"
+  message: "this is to check prod git configuration"
   contactDetails:
     name: John
     phoneno: "94248484082"
