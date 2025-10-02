@@ -1,8 +1,8 @@
 build:
-  version: devs
+  version: devsgit
 
 accounts:
-  message: "this is to check dev configuration"
+  message: "this is to check dev git configuration"
   contactDetails:
     name: Johnldwkd
     phoneno: "94248484082kdkxk"
