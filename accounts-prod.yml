@@ -2,7 +2,7 @@ build:
   version: prodgit
 
 accounts:
-  message: "this is to check prod git configuration"
+  message: "this is to check production git configuration"
   contactDetails:
     name: John
     phoneno: "94248484082"
