@@ -1,0 +1,8 @@
+build:
+  version: prod
+
+loan:
+  message: "this is to check prod loan loan configuration"
+  contactDetails:
+    name: John
+    phoneno: "94248484082"
