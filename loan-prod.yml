@@ -2,7 +2,7 @@ build:
   version: prod
 
 accounts:
-  message: "this is to check prod configuration"
+  message: "this is to check prod loan loan prodconfiguration"
   contactDetails:
     name: John
     phoneno: "94248484082"
