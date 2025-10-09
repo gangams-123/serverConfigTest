@@ -2,7 +2,7 @@ build:
   version: devsgit
 
 accounts:
-  message: "this is to check development git's configuration"
+  message: "this is to check development git's cloud bus configuration"
   contactDetails:
     name: Johnldwkd
     phoneno: "94248484082kdkxk"
